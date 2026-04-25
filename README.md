@@ -34,6 +34,6 @@ A smart app to manage personal finances. It helps users track their daily expens
 
 <div align="center">
   <!-- TODO: Replace with actual screenshot links -->
-  <p><i>[Screenshots Placeholder]</i></p>
+  <img src="assets/abs.png" width="200">
   <!-- Example: <img src="./assets/screenshot1.jpg" width="200" /> -->
 </div>
